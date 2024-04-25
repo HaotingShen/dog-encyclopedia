@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/10-final-project-HaotingShen/static/css/main.073c9b0a.css",
+    "main.js": "/10-final-project-HaotingShen/static/js/main.1e8ef120.js",
+    "static/media/logo.svg": "/10-final-project-HaotingShen/static/media/logo.cf1ad5ea55bdf7ea6e8c68b1ae6ee00b.svg",
+    "index.html": "/10-final-project-HaotingShen/index.html",
+    "main.073c9b0a.css.map": "/10-final-project-HaotingShen/static/css/main.073c9b0a.css.map",
+    "main.1e8ef120.js.map": "/10-final-project-HaotingShen/static/js/main.1e8ef120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e8ef120.js"
+  ]
+}
