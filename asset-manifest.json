@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/10-final-project-HaotingShen/static/css/main.5a6fd85e.css",
-    "main.js": "/10-final-project-HaotingShen/static/js/main.46b9a6a5.js",
+    "main.css": "/10-final-project-HaotingShen/static/css/main.40402c75.css",
+    "main.js": "/10-final-project-HaotingShen/static/js/main.ad07832b.js",
     "static/media/Caucasian-Shepherd-Dog.jpg": "/10-final-project-HaotingShen/static/media/Caucasian-Shepherd-Dog.ea27c25d81e2e328bd39.jpg",
     "static/media/Border-Collie.jpg": "/10-final-project-HaotingShen/static/media/Border-Collie.b770b0e370dc16a8915d.jpg",
     "static/media/Hanoverian-Scenthound.jpg": "/10-final-project-HaotingShen/static/media/Hanoverian-Scenthound.7e7e2b65d7eee8a8878d.jpg",
@@ -13,11 +13,11 @@
     "static/media/Japanese-Terrier.jpg": "/10-final-project-HaotingShen/static/media/Japanese-Terrier.8f8c1988ea77c8435603.jpg",
     "static/media/Hokkaido.jpg": "/10-final-project-HaotingShen/static/media/Hokkaido.80bb0b526a9bb98b0109.jpg",
     "index.html": "/10-final-project-HaotingShen/index.html",
-    "main.5a6fd85e.css.map": "/10-final-project-HaotingShen/static/css/main.5a6fd85e.css.map",
-    "main.46b9a6a5.js.map": "/10-final-project-HaotingShen/static/js/main.46b9a6a5.js.map"
+    "main.40402c75.css.map": "/10-final-project-HaotingShen/static/css/main.40402c75.css.map",
+    "main.ad07832b.js.map": "/10-final-project-HaotingShen/static/js/main.ad07832b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6fd85e.css",
-    "static/js/main.46b9a6a5.js"
+    "static/css/main.40402c75.css",
+    "static/js/main.ad07832b.js"
   ]
 }
