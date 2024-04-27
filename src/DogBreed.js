@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import './DogBreed.css';
 
+// Function to highlight search keywords in breed description
 function highlightKeyword(text, keyword) {
     const parts = text.split(new RegExp(`(${keyword})`, 'gi'));
     return parts.map(part => part.toLowerCase() === keyword.toLowerCase()
@@ -10,7 +11,7 @@ function highlightKeyword(text, keyword) {
   
 function DogBreed({breedId, searchKeyword}) {
     const [breed, setBreed] = useState(null);
-
+    // Fetch breed details when breedId changes
     useEffect(() => {
         if (breedId) {
         fetch(`https://dogapi.dog/api/v2/breeds/${breedId}`)
@@ -21,6 +22,7 @@ function DogBreed({breedId, searchKeyword}) {
         }
     }, [breedId]);
 
+    // Format the breed image file path
     const getImagePath = (breedName) => {
         const imageName = breedName.replace(/ /g, '-');
         return require(`./dog_images/${imageName}.jpg`);

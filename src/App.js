@@ -5,6 +5,7 @@ import FunFact from './FunFact';
 import './App.css';
 
 function App() {
+    // State to hold the selected breed ID and search keyword
     const [selectedBreedId, setSelectedBreedId] = useState(null);
     const [searchKeyword, setSearchKeyword] = useState('');
 

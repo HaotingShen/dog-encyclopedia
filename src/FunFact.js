@@ -3,7 +3,7 @@ import './FunFact.css';
 
 function FunFact() {
     const [fact, setFact] = useState('');
-
+    // Fetch a random dog fact
     const fetchFact = async () => {
         const response = await fetch('https://dogapi.dog/api/v2/facts');
         const data = await response.json();

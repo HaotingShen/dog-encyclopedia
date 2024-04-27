@@ -55,4 +55,7 @@ li:last-child {
         margin: 20px;
         margin-top: 0;
     }
+    .search div {
+        margin-left: 20px;
+    }
 }

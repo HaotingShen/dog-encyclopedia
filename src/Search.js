@@ -5,7 +5,7 @@ function Search({ onSelectBreed, onSearch }) {
     const [input, setInput] = useState('');
     const [breeds, setBreeds] = useState([]);
     const [filteredBreeds, setFilteredBreeds] = useState([]);
-  
+    // Filter breeds based on input text
     useEffect(() => {
         const timeoutId = setTimeout(() => {
             const searchLower = input.toLowerCase();
@@ -19,6 +19,7 @@ function Search({ onSelectBreed, onSearch }) {
         return () => clearTimeout(timeoutId);
     }, [input, breeds]);
   
+    // Fetch all breeds when the component mounts
     useEffect(() => {
         fetch('https://dogapi.dog/api/v2/breeds')
             .then(response => response.json())
@@ -28,11 +29,13 @@ function Search({ onSelectBreed, onSearch }) {
             });
     }, []);
   
+    // Update input and search state on change
     const handleInputChange = (event) => {
         setInput(event.target.value);
         onSearch(event.target.value);
     };
   
+    // Auto scroll to the DogBreed section
     const handleSelectBreed = (breedId) => {
         onSelectBreed(breedId);
         setTimeout(() => {
@@ -66,7 +69,6 @@ function Search({ onSelectBreed, onSearch }) {
             )}
         </section>
     );
-  }
+}
   
-  export default Search;
-  
+export default Search;
