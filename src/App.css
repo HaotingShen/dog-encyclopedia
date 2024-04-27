@@ -1,28 +1,57 @@
-/* App.css */
+/* Format Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Color Palette */
+:root {
+    --primary-blue: #356E9C;
+    --light-blue: #D1E7F3;
+    --highlight-blue: #52acdc;
+    --dark-blue: #28567A;
+    --neutral-light: #e9e0d8;
+}
+
 .app {
-  margin: 20px;
-  font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .app-header {
-  background-color: #007bff;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  border-radius: 8px;
-  margin-bottom: 20px;
+    background-color: #356E9C;
+    color: #fafafa;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
 }
 
-.search input {
-  width: 100%;
-  padding: 8px;
-  margin: 10px 0;
-  box-sizing: border-box;
+.app-header h1 {
+    margin: 5px 0;
 }
 
-@media (max-width: 600px) {
-  .app {
+p {
     margin: 10px;
-    padding: 10px;
-  }
+    line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 550px) {
+    h1 {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 551px) and (max-width: 1024px) {
+    h1 {
+        font-size: 26px;
+    }
+}
+
+@media (min-width: 1025px) {
+    h1 {
+        font-size: 30px;
+    }
 }
