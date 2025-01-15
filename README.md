@@ -4,7 +4,7 @@ Author: Haoting Shen
 
 I created an educational and interactive website designed to engage users with comprehensive information about dogs. Users will have the opportunity to explore a wide range of dog breeds, discover their traits, and learn fascinating facts about them.
 
-Github Pages: https://cse204-2024.github.io/dog-encyclopedia/
+Github Pages: https://HaotingShen.github.io/dog-encyclopedia/
 
 API: https://dogapi.dog/docs/api-v2
 
