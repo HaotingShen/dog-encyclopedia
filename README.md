@@ -1,4 +1,4 @@
-# React Final Project
+# Dog Encyclopedia React Project
 
 Author: Haoting Shen
 
