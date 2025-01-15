@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/10-final-project-HaotingShen/static/css/main.2788fa76.css",
-    "main.js": "/10-final-project-HaotingShen/static/js/main.ad07832b.js",
-    "static/media/Caucasian-Shepherd-Dog.jpg": "/10-final-project-HaotingShen/static/media/Caucasian-Shepherd-Dog.ea27c25d81e2e328bd39.jpg",
-    "static/media/Border-Collie.jpg": "/10-final-project-HaotingShen/static/media/Border-Collie.b770b0e370dc16a8915d.jpg",
-    "static/media/Hanoverian-Scenthound.jpg": "/10-final-project-HaotingShen/static/media/Hanoverian-Scenthound.7e7e2b65d7eee8a8878d.jpg",
-    "static/media/Skye-Terrier.jpg": "/10-final-project-HaotingShen/static/media/Skye-Terrier.0259dd824fc4c226b8ca.jpg",
-    "static/media/Bouvier-des-Flandres.jpg": "/10-final-project-HaotingShen/static/media/Bouvier-des-Flandres.821a3994ce41a84a922b.jpg",
-    "static/media/Grand-Basset-Griffon-Vendéen.jpg": "/10-final-project-HaotingShen/static/media/Grand-Basset-Griffon-Vendéen.7eddd0d9f1127448791b.jpg",
-    "static/media/Tibetan-Spaniel.jpg": "/10-final-project-HaotingShen/static/media/Tibetan-Spaniel.6992cc32ef553977a1df.jpg",
-    "static/media/Curly-Coated-Retriever.jpg": "/10-final-project-HaotingShen/static/media/Curly-Coated-Retriever.881ffabcdea9f17019ad.jpg",
-    "static/media/Japanese-Terrier.jpg": "/10-final-project-HaotingShen/static/media/Japanese-Terrier.8f8c1988ea77c8435603.jpg",
-    "static/media/Hokkaido.jpg": "/10-final-project-HaotingShen/static/media/Hokkaido.80bb0b526a9bb98b0109.jpg",
-    "index.html": "/10-final-project-HaotingShen/index.html",
-    "main.2788fa76.css.map": "/10-final-project-HaotingShen/static/css/main.2788fa76.css.map",
-    "main.ad07832b.js.map": "/10-final-project-HaotingShen/static/js/main.ad07832b.js.map"
+    "main.css": "/dog-encyclopedia/static/css/main.2788fa76.css",
+    "main.js": "/dog-encyclopedia/static/js/main.2211f6d3.js",
+    "static/media/Caucasian-Shepherd-Dog.jpg": "/dog-encyclopedia/static/media/Caucasian-Shepherd-Dog.ea27c25d81e2e328bd39.jpg",
+    "static/media/Border-Collie.jpg": "/dog-encyclopedia/static/media/Border-Collie.b770b0e370dc16a8915d.jpg",
+    "static/media/Hanoverian-Scenthound.jpg": "/dog-encyclopedia/static/media/Hanoverian-Scenthound.7e7e2b65d7eee8a8878d.jpg",
+    "static/media/Skye-Terrier.jpg": "/dog-encyclopedia/static/media/Skye-Terrier.0259dd824fc4c226b8ca.jpg",
+    "static/media/Bouvier-des-Flandres.jpg": "/dog-encyclopedia/static/media/Bouvier-des-Flandres.821a3994ce41a84a922b.jpg",
+    "static/media/Grand-Basset-Griffon-Vendéen.jpg": "/dog-encyclopedia/static/media/Grand-Basset-Griffon-Vendéen.7eddd0d9f1127448791b.jpg",
+    "static/media/Tibetan-Spaniel.jpg": "/dog-encyclopedia/static/media/Tibetan-Spaniel.6992cc32ef553977a1df.jpg",
+    "static/media/Curly-Coated-Retriever.jpg": "/dog-encyclopedia/static/media/Curly-Coated-Retriever.881ffabcdea9f17019ad.jpg",
+    "static/media/Japanese-Terrier.jpg": "/dog-encyclopedia/static/media/Japanese-Terrier.8f8c1988ea77c8435603.jpg",
+    "static/media/Hokkaido.jpg": "/dog-encyclopedia/static/media/Hokkaido.80bb0b526a9bb98b0109.jpg",
+    "index.html": "/dog-encyclopedia/index.html",
+    "main.2788fa76.css.map": "/dog-encyclopedia/static/css/main.2788fa76.css.map",
+    "main.2211f6d3.js.map": "/dog-encyclopedia/static/js/main.2211f6d3.js.map"
   },
   "entrypoints": [
     "static/css/main.2788fa76.css",
-    "static/js/main.ad07832b.js"
+    "static/js/main.2211f6d3.js"
   ]
 }
